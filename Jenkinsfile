@@ -52,5 +52,4 @@ pipeline {
       }
     }
   }
-  chukwuemeka-jenkins-master-client-alerts
 }
